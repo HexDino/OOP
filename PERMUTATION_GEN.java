@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class PERMUTATION_GEN  {
+public class PERMUTATION_GEN {
 
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
