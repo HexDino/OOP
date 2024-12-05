@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+public class String_match {
+    public static void String_match(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int lengthLarge = Integer.parseInt(scanner.nextLine());
         String largeString = scanner.nextLine();
